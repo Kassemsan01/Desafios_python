@@ -1,3 +1,3 @@
 # calculadora_python
 
-Esse é meu primeiro codigo usando o python
+Aqui eu coloco toda a minha evolução com a linguagem python.
