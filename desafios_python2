@@ -1,0 +1,37 @@
+# Exercícios com funções
+
+# Crie uma função que multiplica todos os argumentos
+# não nomeados recebidos
+# Retorne o total para uma variável e mostre o valor
+# da variável.
+
+'''def multiplicacao (*args):
+    total = 1
+
+    for multiplica in args:
+        total *= multiplica
+
+    return total
+
+
+    
+
+multiplicacão = multiplicacao(10,20,10,23,33)
+
+
+print(multiplicacão)'''
+    
+
+# Crie uma função fala se um número é par ou ímpar.
+# Retorne se o número é par ou ímpar.
+
+def par_impar (multiplica):
+    
+    multiplo_de_dois = multiplica % 2 == 0
+
+    if multiplo_de_dois:
+        return f'{multiplica} é par'
+    return f'{multiplica} é impar'
+
+imp=(10+9)
+print(par_impar(imp))
